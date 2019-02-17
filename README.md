@@ -1,2 +1,2 @@
 # pinkblue
-Assignement
+Assignment
